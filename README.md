@@ -1,32 +1,15 @@
 # 300gram
 
-Single Page Application
-An Instagram clone, project for  IT Talents Training Camp Season 12
+### Final Project for IT Talents Training Camp Season 12
 
-Live link: https://instagram-4c584.web.app
+# Overview
 
-#Main functionalities 
+Single Page Application, copy of the original Instagram (https://instagram.com) . 
 
-*Register
-*Login/Logout
-*Upload Post/ Delete Post
-*Upload Story
-*Like/Unlike Post
-*Like Post on Double Click
-*Save/ Unsave Post
-*Comment Post
-*View User Stories
-*Follow/Unfollow User
-*Edit Profile
-*Infinite Scroll
-*Notifications 
-*Chat Room
-*Take Pictures from Web Camera
-*Search User
 
-#Used Technologies
+#  Technologies :
 
-* Javascript 
+ * Javascript 
  * React
  * Redux
  * Redux-Thunk
@@ -34,6 +17,28 @@ Live link: https://instagram-4c584.web.app
  * Material UI
  * Firebase
  
+ 
+# Features
+
+* Register/ login / logout 
+* Uploading posts & stories
+* Like & unlike posts
+* Save posts
+* Comment posts
+* Follow & unfollow
+* Chat room
+* Notifications
+
+![Screenshot 2021-04-07 at 0 23 12](https://user-images.githubusercontent.com/32630123/113780195-8c6ed000-9737-11eb-9819-3c25d8f68bd0.png)
+
+![Screenshot 2021-04-07 at 0 23 03](https://user-images.githubusercontent.com/32630123/113780179-8973df80-9737-11eb-8e22-3fc9596fc739.png)
+
+
+Presentation :[300gram.pdf](https://github.com/SimeonVAtanasov/INSTAGRAM_CLONE/files/6267650/300gram.pdf)
+
+
+
+
 ### Contributors:
 
 * Nevena Kirova
